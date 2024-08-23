@@ -5,6 +5,6 @@ Este repositório contém o código-fonte do meu site pessoal.
 
 ## Estrutura
 
-# Site Pessoal
-## Styles
-## Scripts
+ Site Pessoal
+ Styles
+ Scripts
