@@ -3,8 +3,12 @@ markdown Copiar código
 
 Este repositório contém o código-fonte do meu site pessoal.
 
-## Estrutura
+# Estrutura
 
- Site Pessoal
- Styles
- Scripts
+site-pessoal/
+│
+├── index.html
+├── styles/
+│   └── style.css
+└── scripts/
+    └── main.js
